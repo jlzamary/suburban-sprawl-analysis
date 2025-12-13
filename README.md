@@ -6,5 +6,5 @@ __Vegetation change in rapidly developing suburban tech hubs. A comparison of As
 
 #### Ashburn NDVI Time Series Animation
 <div align="center">
-  <video src="Media/Ashburn_NDVI_GIF.mp4" controls width="65%"></video>
+  <img src="Media/Ashburn_NDVI_GIF.gif" alt="Ashburn NDVI Time Series Animation" width="65%">
 </div>
